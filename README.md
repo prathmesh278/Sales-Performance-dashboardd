@@ -30,7 +30,7 @@ The dataset includes transactional sales records with fields such as:
 - Order Date
 
 ## 📷 Screenshots
-> (Insert screenshots of your dashboard here after uploading to GitHub or using GitHub Issues for image hosting)
+> (https://github.com/prathmesh278/Sales-Performance-dashboardd/blob/main/dashboard%20screenshot.png)
 
 ## 🧑‍💼 Author
 Prathmesh Gaikwad  
